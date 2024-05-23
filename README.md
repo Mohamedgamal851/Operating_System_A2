@@ -1,6 +1,6 @@
 # Operating_System_A2
 # Problem Definition:
-##
+
 It is required to simulate a limited number of devices connected to a router’s Wi-Fi
 using Java threading and semaphore. Routers can be designed to limit the number of
 open connections. For example, a Router may wish to have only N connections at any
